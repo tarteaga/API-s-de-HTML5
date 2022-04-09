@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.buttons{
+    cursor: pointer;
+    margin-right: 1.5em;
+    padding: 0.5em 1em;
+    border-radius: 100px;
+    background: hsl(13, 48%, 75%);
+    color: hsl(34, 95%, 8%);
+}
+
+output{
+    display:inline-table;
+}
+ .controls{
+    margin-top: 1.5em;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
